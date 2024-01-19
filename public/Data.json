@@ -1,0 +1,90 @@
+[
+  {
+    "City": "Hyderabad",
+    "Doctor": "Dr. Solomon Raju",
+    "Intro": "Provider of Physiotherapy and Rehabilitation in Chandanagar, Hyderabad specialized in Musculoskeletal conditions, sports injuries, Cardiopulmonary Rehabilitation & Neuro Rehabilitation.",
+    "Phone": "099087 87196",
+    "Address": "5-4/12-16, Main Road, Mumbai High Way, Hyderabad, Telangana · ~11 km"
+  },
+  {
+    "City": "Hyderabad",
+    "Doctor": "Dr. Sravanthi Perakam (pt)",
+    "Intro": "Dr Sridevi Paladugu is a practicing Endocrinologist in Hyderabad at Apollo Hospital",
+    "Phone": "1860 500 1066",
+    "Address": "2-1-520 To 526/2, First Floor, Vijaya Sri Sai Celestia, Apollo Clinic Nallakunta, Hyderabad, Telangana 500044 · ~10.7 km"
+  },
+
+  {
+    "City": "Benguluru",
+    "Doctor": "Dr. Aamir K. (pt)",
+    "Intro": "Dr. Aamir PT is a Physiotherapist with vast knowledge in neuro and ortho cases. He also handles many cases of pre-op and post-op cases of joint replacement, fracture,",
+    "Phone": "097427 92625",
+    "Address": "256, 5th Main, Sector 6, HSR Layout, Bengaluru, Karnataka 560102"
+  },
+  {
+    "City": "Benguluru",
+    "Doctor": "Dr. Abhilipsa Priyadarshini",
+    "Intro": "Dr. Abhilipsa Priyadarshini Ortho Neuro Physiotherapist treating patient suffering from joint pain, back pain, neck pain",
+    "Phone": "1860 500 1066",
+    "Address": "No 3, 10TH Cross Road, Oppo. to BRV Public School, Prasanti Nagar, Isro Layout, Bengaluru, Karnataka"
+  },
+  {
+    "City": "Mumbai",
+    "Doctor": "Dr. Aamir K. (pt)",
+    "Intro": "Dr. Aamir PT is a Physiotherapist with vast knowledge in neuro and ortho cases. He also handles many cases of pre-op and post-op cases of joint replacement, fracture,",
+    "Phone": "097427 92625",
+    "Address": "256, 5th Main, Sector 6, HSR Layout, Mumbai, 560102"
+  },
+  {
+    "City": "Mumbai",
+    "Doctor": "Dr. Sravanthi Perakam (pt)",
+    "Intro": "Dr Sridevi Paladugu is a practicing Endocrinologist in Hyderabad at Apollo Hospital",
+    "Phone": "1860 500 1066",
+    "Address": "2-1-520 To 526/2, First Floor, Vijaya Sri Sai Celestia, Apollo Clinic Nallakunta, Sector 6, HSR Layout, Mumbai, 560102 ~10.7 km"
+  },
+
+  {
+    "City": "Delhi",
+    "Doctor": "Dr. Sravanthi Perakam (pt)",
+    "Intro": "Dr Sridevi Paladugu is a practicing Endocrinologist in Hyderabad at Apollo Hospital",
+    "Phone": "1860 500 1066",
+    "Address": "2-1-520 To 526/2, First Floor, Vijaya Sri Sai Celestia, Apollo Clinic ,Delhi 500044 · ~10.7 km"
+  },
+  {
+    "City": "Delhi",
+    "Doctor": "Dr. Aamir K. (pt)",
+    "Intro": "Dr. Aamir PT is a Physiotherapist with vast knowledge in neuro and ortho cases. He also handles many cases of pre-op and post-op cases of joint replacement, fracture,",
+    "Phone": "097427 92625",
+    "Address": "256, 5th Main, Sector 6, HSR Layout, Delhi, 560102"
+  },
+
+  {
+    "City": "Pune",
+    "Doctor": "Dr. Solomon Raju",
+    "Intro": "Provider of Physiotherapy and Rehabilitation in Chandanagar, Hyderabad specialized in Musculoskeletal conditions, sports injuries, Cardiopulmonary Rehabilitation & Neuro Rehabilitation.",
+    "Phone": "099087 87196",
+    "Address": "5-4/12-16, Main Road, Mumbai High Way, Pune· ~11 km"
+  },
+  {
+    "City": "Pune",
+    "Doctor": "Dr. Abhilipsa Priyadarshini",
+    "Intro": "Dr. Abhilipsa Priyadarshini Ortho Neuro Physiotherapist treating patient suffering from joint pain, back pain, neck pain",
+    "Phone": "1860 500 1066",
+    "Address": "No 3, 10TH Cross Road, Oppo. to BRV Public School, Prasanti Nagar, Isro Layout, pune"
+  },
+
+  {
+    "City": "Kochi",
+    "Doctor": "Dr. Abhilipsa Priyadarshini",
+    "Intro": "Dr. Abhilipsa Priyadarshini Ortho Neuro Physiotherapist treating patient suffering from joint pain, back pain, neck pain",
+    "Phone": "1860 500 1066",
+    "Address": "No 3, 10TH Cross Road, Oppo. to BRV Public School, Prasanti Nagar, Isro Layout, kochi"
+  },
+  {
+    "City": "Kochi",
+    "Doctor": "Dr. Sravanthi Perakam (pt)",
+    "Intro": "Dr Sridevi Paladugu is a practicing Endocrinologist in Hyderabad at Apollo Hospital",
+    "Phone": "1860 500 1066",
+    "Address": "2-1-520 To 526/2, First Floor, Vijaya Sri Sai Celestia, Apollo Clinic Nallakunta, kochi 500044 · ~10.7 km"
+  }
+]

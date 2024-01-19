@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.Body {
+  display: flex;
+}
+.img {
+  margin: 5px;
+}
+@keyframes leftmove {
+  0% {
+    transform: translateX(50px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+.leftmove {
+  animation: leftmove 0.5s ease-out;
+}
