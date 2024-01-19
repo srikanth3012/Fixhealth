@@ -7,6 +7,7 @@ const Body = () => {
   const [bokingForm, setBookingForm] = useState(false);
   const bookingFormHandler = () => {
     setBookingForm(true);
+    console.log(bokingForm);
   };
   return (
     <>
