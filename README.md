@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+useEffect(() => {
+getData();
+}, []);
+const getData = async () => {
+const data = await fetch("Data.json", {
+headers: {
+"Content-Type": "application/json",
+Accept: "application/json",
+},
+});
+const json = await data.json();
+setdata(json);
+};

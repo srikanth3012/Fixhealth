@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import jsondata from "./Data.json";
 import Preview from "./Preview";
 
@@ -6,20 +6,7 @@ const BookingForm = () => {
   const [showExperience, setShowExperience] = useState(true);
   const [doctorDetails, setDoctorDetails] = useState("");
   const [preview, SetPreview] = useState(false);
-  const [data, setdata] = useState("");
-  useEffect(() => {
-    getData();
-  }, []);
-  const getData = async () => {
-    const data = await fetch("Data.json", {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-    });
-    const json = await data.json();
-    setdata(json);
-  };
+
   const [formValues, setFormValues] = useState({
     username: "",
     phone: "",
@@ -129,7 +116,7 @@ const BookingForm = () => {
         <input
           type="text"
           disabled={formValues.age < 40}
-          placeholder="please Enter if age above 40"
+          placeholder="please Enter if age > 39"
           name="prevexperiance"
           className="border border-black px-1 py-1 rounded-lg ml-10 text-black pl-3"
           onChange={inputHandler}
